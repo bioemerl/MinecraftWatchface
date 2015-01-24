@@ -1,0 +1,111 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "cromo_man94@yahoo.com",
+    "longName": "MinecraftClock",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/minecraftscreen.png",
+                "name": "MINECRAFT_SCREEN",
+                "type": "png"
+            },
+            {
+                "file": "images/watchcycle_menu.png",
+                "menuIcon": true,
+                "name": "watchcycle_menu",
+                "type": "png"
+            },
+            {
+                "file": "images/watchcycle_15.png",
+                "name": "WATCHCYCLE_15",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_14.png",
+                "name": "WATCHCYCLE_14",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_13.png",
+                "name": "WATCHCYCLE_13",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_12.png",
+                "name": "WATCHCYCLE_12",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_11.png",
+                "name": "WATCHCYCLE_11",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_9.png",
+                "name": "WATCHCYCLE_9",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_10.png",
+                "name": "WATCHCYCLE_10",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_8.png",
+                "name": "WATCHCYCLE_8",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_7.png",
+                "name": "WATCHCYCLE_7",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_6.png",
+                "name": "WATCHCYCLE_6",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_5.png",
+                "name": "WATCHCYCLE_5",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_4.png",
+                "name": "WATCHCYCLE_4",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_3.png",
+                "name": "WATCHCYCLE_3",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_2.png",
+                "name": "WATCHCYCLE_2",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_1.png",
+                "name": "WATCHCYCLE_1",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/watchcycle_0.png",
+                "name": "WATCHCYCLE_0",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "shortName": "MinecraftClock",
+    "uuid": "14aa5534-7f92-47ca-b8d0-bba30590d709",
+    "versionCode": 1,
+    "versionLabel": "0.1",
+    "watchapp": {
+        "watchface": true
+    }
+}
